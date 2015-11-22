@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9613C615E5DC1C8C491A9368989CB80062CC539D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "59dd3aaf-42d5-dd4f-9c68-99587b23bfc5" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "59dd3aaf-42d5-dd4f-9c68-99587b23bfc5" : 0,
+    "9613C615E5DC1C8C491A9368989CB80062CC539D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "99CC851B-B97D-4D6F-9D40-F9764F1AE901",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "59dd3aaf-42d5-dd4f-9c68-99587b23bfc5" : "localLive\/",
+    "9613C615E5DC1C8C491A9368989CB80062CC539D" : "-\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "localLive",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "localLive\/localLive.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.19.38\/svn\/localLive",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "59dd3aaf-42d5-dd4f-9c68-99587b23bfc5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/YFLucky\/-",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9613C615E5DC1C8C491A9368989CB80062CC539D"
+    }
+  ]
+}
